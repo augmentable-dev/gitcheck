@@ -1,0 +1,3 @@
+## gitcheck
+
+A simple library (and eventual CLI) to look up basic information about a git repository's recent activity. There are plenty of tools out there that do an amazing job of analyzing the full history of git repos for generic use cases (and produce graphs, charts, reports, etc). The purpose of this tool is primarily to help evaluate the "current health" of a repository (to aid decisions about whether a codebase should be used as a dependency or not, say).
